@@ -1,0 +1,4 @@
+server:
+  port: 8080
+api:
+  base-url: ${API_BASE_URL:http://localhost:8081}

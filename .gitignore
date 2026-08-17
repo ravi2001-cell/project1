@@ -1,0 +1,15 @@
+target/
+*.log
+*.tmp
+*.class
+*.jar
+.idea/
+.vscode/
+.DS_Store
+# Maven
+**/target/
+.settings/
+
+# Docker
+.dockerignore
+
